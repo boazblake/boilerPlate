@@ -3,7 +3,7 @@ Boilerplate for Backbone, React and Firebase apps
 Based on the Universal JS Boilerplate Created By Matt Keas (https://github.com/matthiasak)
 
 
-Getting Started
+# Getting Started
 Start your own project folder with a git clone, and if you plan to push this clone to GitHub, you'll need to change your origin:
 
 cd ~/Github\ Projects/
