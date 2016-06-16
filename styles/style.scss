@@ -57,7 +57,7 @@ ul, ol {
     @media screen and (min-width: #{$width}px) {
         .grid-#{$col}-#{$width} {
             & > * {
-                width: #{100/$col}%;
+                width: #{100/$col}'%';
                 padding: #{$padding}px;
             }
         }
@@ -67,7 +67,7 @@ ul, ol {
 @mixin grid($col, $padding: 0) {
     .grid-#{$col} {
         & > * {
-            width: #{100/$col}%;
+            width: #{100/$col}'%';
             padding: #{$padding}px;
         }
     }
